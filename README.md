@@ -1,2 +1,2 @@
 # BerkeleyExtension_AIAssignment_17-1
-Predicting responses to marketing campaigns given customer infortmation.
+After training a few classification models, we can see that the best model is... hard to say. I'm inclined to go with KNN because it does a decent job without taking too much time to train. Logistic regression did well, but it had to search through more parameters to get there, and so it took much longer. SVM was so unbearably slow that I wasn't really able to utilize GridSearchCV to its fullest potential.
